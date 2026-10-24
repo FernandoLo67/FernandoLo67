@@ -1,31 +1,45 @@
-# Fernando López
+## Hola, soy Fernando López
 
-Estudiante de Ingeniería en Sistemas en Guatemala. Construyo cosas desde cero para entender cómo funcionan por dentro.
+Estudiante de Ingeniería en Sistemas en Guatemala. Me gusta construir las cosas desde cero para entender cómo funcionan por dentro — JWT, WebSocket, circuit breakers, parsers JSON — y después usar frameworks con criterio.
 
-## Lo que hago
+### Proyectos destacados
 
-Escribo Java sin frameworks cuando quiero entender un protocolo o un patrón, y con frameworks cuando quiero entregar algo rápido. También trabajo con TypeScript y Python.
+🔐 **[autenticacion-jwt](https://github.com/FernandoLo67/autenticacion-jwt)** — Sistema JWT desde cero con HMAC-SHA256, PBKDF2, tokens de refresco, bloqueo por intentos y validador de contraseñas OWASP. 69 tests.
 
-Lo que más me interesa: backends, seguridad, arquitectura de sistemas y bases de datos.
+🌐 **[microservicios-jdk](https://github.com/FernandoLo67/microservicios-jdk)** — Service registry, API gateway, load balancer, circuit breaker y retry con backoff exponencial. Todo con la stdlib de Java.
 
-## Proyectos destacados
+🛒 **[api-rest-ecommerce](https://github.com/FernandoLo67/api-rest-ecommerce)** — API REST completa con router, JSON parser, paginación y CORS, sobre el HTTP server del JDK.
 
-| Proyecto | Qué hace | Qué demuestra |
-|---|---|---|
-| [autenticacion-jwt](https://github.com/FernandoLo67/autenticacion-jwt) | JWT desde cero con HMAC, PBKDF2, tokens de refresco y bloqueo por intentos | Criptografía aplicada, seguridad defensiva |
-| [api-rest-ecommerce](https://github.com/FernandoLo67/api-rest-ecommerce) | API REST completa sobre el HTTP server del JDK, sin Spring | HTTP, routing, JSON, arquitectura en capas |
-| [microservicios-jdk](https://github.com/FernandoLo67/microservicios-jdk) | Registry, gateway, load balancer y circuit breaker sin librerías externas | Arquitectura distribuida, tolerancia a fallos |
-| [dashboard-tiempo-real](https://github.com/FernandoLo67/dashboard-tiempo-real) | Dashboard con WebSocket implementado desde cero (RFC 6455) | Protocolos de red, comunicación bidireccional |
-| [Juego-de-Ahorcado](https://github.com/FernandoLo67/Juego-de-Ahorcado) | Ahorcado en el navegador con categorías, dificultad y racha | TypeScript, DOM, localStorage |
-| [calculadora-basica](https://github.com/FernandoLo67/calculadora-basica) | Calculadora que atrapa desborde silencioso de IEEE 754 | Punto flotante, testing exhaustivo, CI |
+📊 **[dashboard-tiempo-real](https://github.com/FernandoLo67/dashboard-tiempo-real)** — Dashboard de métricas con WebSocket (RFC 6455) implementado desde cero, sistema de alertas y percentiles p50/p95/p99.
 
-## Tecnologías
+💬 **[chat-sockets](https://github.com/FernandoLo67/chat-sockets)** — Chat multiusuario sobre TCP con protocolo propio, mensajes privados, broadcast y rate limiting por usuario.
 
-**Backend:** Java 11+, Maven, JUnit 5, HTTP/TCP desde la stdlib  
-**Frontend:** TypeScript, HTML, CSS  
-**Herramientas:** Git, GitHub Actions, Python  
-**Aprendiendo:** Spring Boot, PostgreSQL, Docker
+🧩 **[juego-sudoku](https://github.com/FernandoLo67/juego-sudoku)** — Generador de tableros de solución única, solucionador por backtracking, sistema de pistas inteligente y scoring por dificultad.
 
-## Contacto
+### También construí
 
-- [LinkedIn](https://www.linkedin.com/in/fernandolopez1739)
+| Proyecto | Qué hace |
+|---|---|
+| [app-clima-api](https://github.com/FernandoLo67/app-clima-api) | Cliente HTTP + parser JSON a mano para consultar clima con Open-Meteo y caché LRU |
+| [editor-texto](https://github.com/FernandoLo67/editor-texto) | Editor Swing con undo/redo por deltas, búsqueda regex y estadísticas |
+| [gestor-gastos](https://github.com/FernandoLo67/gestor-gastos) | Gastos con BigDecimal, presupuestos, reportes mensuales y resumen anual |
+| [cajero-automatico-simple](https://github.com/FernandoLo67/cajero-automatico-simple) | Cajero con precisión monetaria, transferencias atómicas e historial |
+| [calculadora-basica](https://github.com/FernandoLo67/calculadora-basica) | Detección de desborde IEEE 754, edge cases de punto flotante, 21 tests |
+| [Calculadora-de-Redes](https://github.com/FernandoLo67/Calculadora-de-Redes) | Calculadora de subredes IPv4/IPv6 con VLSM |
+| [Juego-de-Ahorcado](https://github.com/FernandoLo67/Juego-de-Ahorcado) | Ahorcado en el navegador con TypeScript y localStorage |
+
+### Stack
+
+```
+Java 11+ · Maven · JUnit 5 · TCP/HTTP desde la stdlib
+TypeScript · Python
+Git · GitHub Actions CI
+```
+
+### Aprendiendo
+
+Spring Boot · PostgreSQL · Docker
+
+### Contacto
+
+**[LinkedIn](https://www.linkedin.com/in/fernandolopez1739)** · danieloscal22@gmail.com
