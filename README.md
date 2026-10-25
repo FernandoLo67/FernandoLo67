@@ -23,18 +23,19 @@ Estudiante de Ingeniería en Sistemas en Guatemala. Me gusta construir las cosas
 | [app-clima-api](https://github.com/FernandoLo67/app-clima-api) | Cliente HTTP + parser JSON a mano para consultar clima con Open-Meteo y caché LRU |
 | [editor-texto](https://github.com/FernandoLo67/editor-texto) | Editor Swing con undo/redo por deltas, búsqueda regex y estadísticas |
 | [gestor-gastos](https://github.com/FernandoLo67/gestor-gastos) | Gastos con BigDecimal, presupuestos, reportes mensuales y resumen anual |
+| [acortador-urls](https://github.com/FernandoLo67/acortador-urls) | Full-stack Node.js + Express: acortador con redirects 301, click tracking y frontend vanilla JS |
 | [cajero-automatico-simple](https://github.com/FernandoLo67/cajero-automatico-simple) | Cajero con precisión monetaria, transferencias atómicas e historial |
+| [juego-sudoku](https://github.com/FernandoLo67/juego-sudoku) | Generador de tableros de solución única, backtracking, pistas inteligentes y scoring |
 | [calculadora-basica](https://github.com/FernandoLo67/calculadora-basica) | Detección de desborde IEEE 754, edge cases de punto flotante, 21 tests |
 | [Calculadora-de-Redes](https://github.com/FernandoLo67/Calculadora-de-Redes) | Calculadora de subredes IPv4/IPv6 con VLSM |
-| [juego-sudoku](https://github.com/FernandoLo67/juego-sudoku) | Generador de tableros de solución única, backtracking, pistas inteligentes y scoring |
 | [Juego-de-Ahorcado](https://github.com/FernandoLo67/Juego-de-Ahorcado) | Ahorcado en el navegador con TypeScript y localStorage |
-| [Calculadora-de-Redes](https://github.com/FernandoLo67/Calculadora-de-Redes) | Calculadora de subredes IPv4/IPv6 con VLSM |
 
 ### Stack
 
 ```
 Java 17 · Spring Boot 3 · Spring Data JPA · PostgreSQL
 Java 11+ · Maven · JUnit 5 · TCP/HTTP desde la stdlib
+Node.js · Express · Jest
 TypeScript · Python
 Git · GitHub Actions CI
 ```
