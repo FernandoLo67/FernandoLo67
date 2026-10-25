@@ -14,7 +14,7 @@ Estudiante de Ingeniería en Sistemas en Guatemala. Me gusta construir las cosas
 
 💬 **[chat-sockets](https://github.com/FernandoLo67/chat-sockets)** — Chat multiusuario sobre TCP con protocolo propio, mensajes privados, broadcast y rate limiting por usuario.
 
-🧩 **[juego-sudoku](https://github.com/FernandoLo67/juego-sudoku)** — Generador de tableros de solución única, solucionador por backtracking, sistema de pistas inteligente y scoring por dificultad.
+🗂️ **[gestor-tareas-spring](https://github.com/FernandoLo67/gestor-tareas-spring)** — API REST con Spring Boot 3, Spring Data JPA, PostgreSQL, paginación, filtros y 24 tests de integración. El framework, después de entender qué hace por dentro.
 
 ### También construí
 
@@ -26,11 +26,14 @@ Estudiante de Ingeniería en Sistemas en Guatemala. Me gusta construir las cosas
 | [cajero-automatico-simple](https://github.com/FernandoLo67/cajero-automatico-simple) | Cajero con precisión monetaria, transferencias atómicas e historial |
 | [calculadora-basica](https://github.com/FernandoLo67/calculadora-basica) | Detección de desborde IEEE 754, edge cases de punto flotante, 21 tests |
 | [Calculadora-de-Redes](https://github.com/FernandoLo67/Calculadora-de-Redes) | Calculadora de subredes IPv4/IPv6 con VLSM |
+| [juego-sudoku](https://github.com/FernandoLo67/juego-sudoku) | Generador de tableros de solución única, backtracking, pistas inteligentes y scoring |
 | [Juego-de-Ahorcado](https://github.com/FernandoLo67/Juego-de-Ahorcado) | Ahorcado en el navegador con TypeScript y localStorage |
+| [Calculadora-de-Redes](https://github.com/FernandoLo67/Calculadora-de-Redes) | Calculadora de subredes IPv4/IPv6 con VLSM |
 
 ### Stack
 
 ```
+Java 17 · Spring Boot 3 · Spring Data JPA · PostgreSQL
 Java 11+ · Maven · JUnit 5 · TCP/HTTP desde la stdlib
 TypeScript · Python
 Git · GitHub Actions CI
@@ -38,8 +41,8 @@ Git · GitHub Actions CI
 
 ### Aprendiendo
 
-Spring Boot · PostgreSQL · Docker
+Docker · Kubernetes
 
 ### Contacto
 
-**[LinkedIn](https://www.linkedin.com/in/fernandolopez1739)** · danieloscal22@gmail.com
+**[LinkedIn](https://www.linkedin.com/in/fernandolopez1739)** · fernandofl4567@gmail.com
