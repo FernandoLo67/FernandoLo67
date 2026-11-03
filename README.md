@@ -14,7 +14,7 @@
 
 ### Sobre mí
 
-Prefiero implementar protocolos y patrones antes de depender de librerías. Mis proyectos incluyen JWT con HMAC-SHA256, WebSocket (RFC 6455), circuit breakers, parsers JSON y servidores HTTP — todo desde la biblioteca estándar de Java. Cuando uso un framework como Spring Boot, ya sé qué resuelve por dentro.
+Me gusta entender cómo funcionan las cosas antes de usar lo que ya viene hecho. Aprendo mejor construyendo desde cero.
 
 ---
 
@@ -76,19 +76,3 @@ Prefiero implementar protocolos y patrones antes de depender de librerías. Mis 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-</p>
-
-**Aprendiendo:** Docker · Kubernetes
-
----
-
-<p align="center"><i>Si llegaste hasta aquí, revisa los repos — el código habla mejor que el README.</i></p>
